@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Blog-{52478B}?style={plastic}&logo={Bitdefender}&logoColor={ED1C24}"/>
+<img src="https://img.shields.io/badge/Blog-52478B?style=plastic&logo=Bitdefender&logoColor=ED1C24"/>
  
 ![JGH94's github stats](https://github-readme-stats.vercel.app/api?username=JGH94&show_icons=true)
 
