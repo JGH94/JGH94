@@ -1,7 +1,7 @@
 
 <a href="https://we-co.tistory.com/">
     <img 
-        src="https://img.shields.io/badge/Blog-52478B?style=plastic&logo=Bitdefender&logoColor=white&link=https://we-co.tistory.com/"
+        src="https://img.shields.io/badge/-MyBlog-52478B?style=plastic&logo=Bitdefender&logoColor=white&link=https://we-co.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
 
