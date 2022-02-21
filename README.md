@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![JGH94's github stats](https://github-readme-stats.vercel.app/api?username=JGH94&show_icons=true)
 
-<img src="https://t1.daumcdn.net/cfile/blog/2121844156CE675F37">
 
 <!--
 **JGH94/JGH94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
