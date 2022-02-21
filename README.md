@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WeCo&%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WeCo&%20render&fontSize=90&fontColor=F9FFFF" />
 
 <p align="center">
     <a href="https://we-co.tistory.com/">
