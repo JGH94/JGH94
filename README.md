@@ -1,7 +1,15 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Blog-52478B?style=plastic&logo=Bitdefender&logoColor=white&link=https://we-co.tistory.com"/>
  
+<a href="https://we-co.tistory.com/">
+    <img 
+        src="https://img.shields.io/badge/Blog-52478B?style=plastic&logo=Bitdefender&logoColor=white&link=https://we-co.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> 
+
 ![JGH94's github stats](https://github-readme-stats.vercel.app/api?username=JGH94&show_icons=true)
+ 
+
+
 
 
 <!--
