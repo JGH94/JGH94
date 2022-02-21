@@ -2,7 +2,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=JGH94)
 <!--
 **JGH94/JGH94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![JGH94's github stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true)
+[![JGH94's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JGH94&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JGH94)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
