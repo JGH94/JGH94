@@ -22,10 +22,11 @@
                 src="https://img.shields.io/badge/-.NET-C9284D?style=plastic&logo=.NET&logoColor=white&link=https://we-co.tistory.com/"
                 style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
     </p>
+    
 </p>
- 
-  
-![JGH94's github stats](https://github-readme-stats.vercel.app/api?username=JGH94&show_icons=true)
+
+![JGH94's github stats](https://github-readme-stats.vercel.app/api?username=JGH94&show_icons=true&&theme=onedark))
+
  
 
 
