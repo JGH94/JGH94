@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3296D7&height=300&section=header&text=WeCo&%20render&fontSize=90&fontColor=F9FFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3296D7&height=300&section=header&text=We-Co&%20render&fontSize=90&fontColor=F9FFFF" />
 <h3 align="center"><b>  My Study blog  </b></h3>
 <p align="center"> 
     <a href="https://we-co.tistory.com/">
