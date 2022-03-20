@@ -27,6 +27,15 @@
     
 </p>
 
+ <h3 align="center"><b>★☆★ ☆Use Data ★☆★☆</b></h3>
+ <p align="center">
+ Bayesian Oprimization : https://we-co.tistory.com/109?category=875136
+ <p align="center"> 
+ Pyspark Xgboost : https://we-co.tistory.com/108?category=875136
+    
+ </P>
+
+
 ![JGH94's github stats](https://github-readme-stats.vercel.app/api?username=JGH94&show_icons=true&&theme=gruvbox_light)
 
  
