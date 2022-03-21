@@ -29,9 +29,9 @@
 
  <h3 align="center"><b>★☆★ ☆Use Data ★☆★☆</b></h3>
  <p align="center">
- Bayesian Oprimization : https://we-co.tistory.com/109?category=875136
+ Pyspark Xgboost : https://we-co.tistory.com/108?category=875136 
  <p align="center"> 
- Pyspark Xgboost : https://we-co.tistory.com/108?category=875136
+ Bayesian Oprimization : https://we-co.tistory.com/109?category=875136
     
  </P>
 
