@@ -2,7 +2,7 @@
 <h3 align="center"><b> Hi, It's my Github  </b></h3>
 <h3 align="center"><b> ★Coding test BaekJoon and programmers★  </b></h3>
 <h3 align="center"><b> ☆     Tensorflow and Kaggle Code     ☆  </b></h3>
-<h3 align="center"><b>  My Study blog  </b></h3>
+<h3 align="center"><b>  My blog  </b></h3>
 <p align="center"> 
     <a href="https://we-co.tistory.com/">
         <img 
