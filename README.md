@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3296D7&height=300&section=header&text=We-Co&%20render&fontSize=90&fontColor=F9FFFF" />
 <h3 align="center"><b> Hi, It's my Github  </b></h3>
-<h3 align="center"><b> ★ Python, C# ★  </b></h3> 
+<h3 align="center"><b> ★ Python, DATA Analyst ★  </b></h3> 
 <h3 align="center"><b> ☆     Tensorflow and Kaggle Code   ☆  </b></h3>
 <h3 align="center"><b> ☆     Data analysis and visualization   ☆  </b></h3>
 <h3 align="center"><b>  My blog  </b></h3>
