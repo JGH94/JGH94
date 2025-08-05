@@ -19,9 +19,6 @@
                 src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white&link=https://we-co.tistory.com/"
                 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
       <img
-                src="https://img.shields.io/badge/-Apache Spark-4285F4?style=plastic&logo=Apache Spark&logoColor=white&link=https://we-co.tistory.com/"
-                style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-      <img
                 src="https://img.shields.io/badge/-.NET-C9284D?style=plastic&logo=.NET&logoColor=white&link=https://we-co.tistory.com/"
                 style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
     </p>
